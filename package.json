@@ -1,0 +1,25 @@
+{
+  "name": "gpt-api-test",
+  "version": "1.0.0",
+  "description": "api-test",
+  "main": "gpt.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gaitherdb/GPT-API-TEST.git"
+  },
+  "author": "david",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gaitherdb/GPT-API-TEST/issues"
+  },
+  "homepage": "https://github.com/Gaitherdb/GPT-API-TEST#readme",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "inquirer": "^8.2.4",
+    "node-fetch": "^2.6.7",
+    "openai": "^3.3.0"
+  }
+}
